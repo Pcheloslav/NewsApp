@@ -1,2 +1,2 @@
 # NewsApp
-very very very simple rss feed reader
+very very very simple rss feed reader for android
